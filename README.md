@@ -1,5 +1,10 @@
 # Savannahbee Products | Email Design & Development
 
+<!-- ## Description -->
+A donation based e-commerce platform that is modern, user-friendly, and mobile-responsive. I designed and developed an easy to navigate website, optimized for all devices. I also incorporated functionality to make it easy for visitors to make secure donations.
+
+In addition to web development, I created professional brand materials such as the logo, and complete brand identity. This helps to ensure the website not only functions well but also looks trustworthy, visually appealing, and represents the spirit of Central Philadelphia Quaker Meeting in the best possible light.
+
 Link to project: <a target="_blank" href="https://henryleestudio.github.io/savannahbee-shopify-email-design-dev/">live demo</a>
 
 ![savannahbee-products-1](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/5f8a3da3-73b1-45db-9ade-85121a2591eb)
@@ -10,11 +15,6 @@ Link to project: <a target="_blank" href="https://henryleestudio.github.io/savan
 ![savannahbee-products-4](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/f69b677b-ec59-442d-902b-11837ae4171c)
 ![savannahbee-products-5](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/2dfbbfe8-0ee7-4193-8a0c-1aaf22a007ed)
 ![savannahbee-products-5 1](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/debef76f-01d1-45e5-9da6-93c17e8bba97)
-
-<!-- ## Design -->
-A donation based e-commerce platform that is modern, user-friendly, and mobile-responsive. I designed and developed an easy to navigate website, optimized for all devices. I also incorporated functionality to make it easy for visitors to make secure donations.
-<br><br>
-In addition to web development, I created professional brand materials such as the logo, and complete brand identity. This helps to ensure the website not only functions well but also looks trustworthy, visually appealing, and represents the spirit of Central Philadelphia Quaker Meeting in the best possible light.
 
 <br>
 <p align="left">
