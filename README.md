@@ -2,14 +2,14 @@
 
 Link to project: <a target="_blank" href="https://henryleestudio.github.io/savannahbee-shopify-email-design-dev/">live demo</a>
 
-
-![savannahbee-beauty-1](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/8a62544c-74e5-4f7d-87f2-89138b86d2a9)
-![savannahbee-beauty-1 5](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/68bf7a3f-035f-4a2b-a0ac-57de208737bf)
-![savannahbee-beauty-2](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/9a449b8a-e6cc-49a1-b916-a309bda3c3cf)
-![savannahbee-beauty-3](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/7653d7dd-6d14-47e9-a332-ac455b60682b)
-![savannahbee-beauty-4](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/042df961-6c0c-44a3-b5f6-6d72d5afeb4e)
-![savannahbee-beauty-5](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/e1090d96-8bab-47a3-91ad-454938c00075)
-![savannahbee-beauty-6](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/2d557d3c-61fd-4b74-b7a7-d927fe3dc098)
+![savannahbee-products-1](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/5f8a3da3-73b1-45db-9ade-85121a2591eb)
+![savannahbee-products-1 1](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/ed6bffae-e748-44a0-bb62-5e0dacf5154d)
+![savannahbee-products-1 2](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/9191302d-75b2-4406-b73f-2b6b147e6c85)
+![savannahbee-products-2](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/13d974b4-7128-4a94-abe7-f1f0da96530d)
+![savannahbee-products-3](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/febb2e8c-fb9a-4f89-b0b7-0de194c3ff60)
+![savannahbee-products-4](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/f69b677b-ec59-442d-902b-11837ae4171c)
+![savannahbee-products-5](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/2dfbbfe8-0ee7-4193-8a0c-1aaf22a007ed)
+![savannahbee-products-5 1](https://github.com/henryleestudio/savannahbee-shopify-email-design-dev/assets/101936420/debef76f-01d1-45e5-9da6-93c17e8bba97)
 
 <!-- ## Design -->
 A donation based e-commerce platform that is modern, user-friendly, and mobile-responsive. I designed and developed an easy to navigate website, optimized for all devices. I also incorporated functionality to make it easy for visitors to make secure donations.
